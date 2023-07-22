@@ -1,0 +1,25 @@
+/*header related styles*/
+
+.header{
+background-color: brown;
+background-image: url( '../images/pngwing\ 10.png');
+
+
+}
+
+.banner{
+padding: 40px 40px 40px 150px; ;  
+display: flex;
+align-items: center;
+
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.banner.profile-pic{
+    width: 708px;
+}
